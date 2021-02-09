@@ -7,4 +7,4 @@
 ![Super-Linter](https://github.com/vcu-chfauerbach/test-repo1/workflows/Super-Linter/badge.svg)
 
 This is Collin Sandler making a change
-
+pylint is my favorite that we talked about
